@@ -68,5 +68,5 @@ consists of the following
   artifacts under the `dist` directory. It is irrelevant if you do not use
   git. You should be using git.
   
-- `.dir-locals.el` - Tells Emacs about my project. It is irrelevant if you do
+- `.dir-locals.el` - Tells Emacs about the project. It is irrelevant if you do
   not use Emacs. You don't have to use Emacs, but it is really cool.
