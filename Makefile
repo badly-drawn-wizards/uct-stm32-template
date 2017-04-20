@@ -8,7 +8,7 @@ PROJECT_FILES = main.c
 OPENOCD_DIR = /usr/share/openocd
 STM_PERIPH_DIR = vendor/STM32F0xx_StdPeriph_Lib_V1.5.0
 
-TOOLCHAIN_LIBS_ARCH_LINUX = -L/usr/arm-none-eabi/lib/armv6-m -L/usr/lib/gcc/arm-none-eabi/6.3.0/armv6-m
+TOOLCHAIN_LIBS_ARCH_LINUX = -L/usr/arm-none-eabi/lib/armv6-m -L/usr/lib/gcc/arm-none-eabi/6.3.1/armv6-m
 TOOLCHAIN_LIBS = $(TOOLCHAIN_LIBS_ARCH_LINUX)
 
 # Dark Magic
